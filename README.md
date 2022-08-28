@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cort! 
-- 🌱 I’m currently working on learning python
+- 🌱 I’m currently working on learning new languages
 - 💞️ I love learning
 - 📫 How to reach me: email me at cortneynakahira@gmail.com
 
